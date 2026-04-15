@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+*.csv
+*.log
+*.tmp
+node_modules/
+*.docx
